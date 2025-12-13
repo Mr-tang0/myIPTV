@@ -21,16 +21,7 @@ CCTV-15,https://play.kankanlive.com/live/1698423607826914.m3u8
 CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8
 
 📡卫视频道,#genre#
-广西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226549
-广西卫视,http://z.b.bkpcp.top/m.php?id=gxws
-广西卫视,https://mobilelive.gxtv.cn/live/gx_live1004/playlist.m3u8
-广西卫视,http://goo.bkpcp.top/mg/gxws
-广西卫视,http://live.cztv.cc:85/live/ggpd.m3u8
-广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-广西卫视,http://[2409:8087:1a01:df::4047]:80/TVOD/88888888/224/3221226091/main.m3u8
-广西卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangxi
-广西卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887394.m3u8
-广西卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8
+广西卫视,https://hlslive-tx-cdn.ysp.cctv.cn/F8CF438E81CD711C83B79EC8F1F217CA9ABFFE6F4C3F3526BFCC67571166C400E7E637A56FB0578C68EB4A8805452386EE404170E383BA4F40891996E7EC8A622A892191A7BE9FA1E4815E273AA5946DBEB36DA53F1722E2725BDDB2646DD357757CFE1CB491AD3E2219339A7ED823E4/2024060703_web.m3u8?from=player&svrtime=1765628071&pid=600002509&cdn=5510
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&d=d396e340de48108a9576134d5b090354&k=60ede3db45d8640ab1db2b9f0dfa7549&t=1671539989
